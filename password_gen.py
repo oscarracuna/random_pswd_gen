@@ -1,4 +1,5 @@
 import random
+from string import ascii_letters
 
 mayus = "ABCDEFGHJKLMNOPQRSTUVWXYZ"
 minus = mayus.lower()
